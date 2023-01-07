@@ -15,7 +15,7 @@ body{
 
 #cartao {
   background-color: #070d12;
-  width: 370px;
+  width: 350px;
   border: 2px solid #e126d9;
   border-radius: 8px;
   overflow: hidden;
@@ -97,7 +97,7 @@ body{
 
 #sobre, #projetos {
   font-size: 20px;
-  max-height: 180px;
+  max-height: 175px;
   overflow-y: auto;
 }
 

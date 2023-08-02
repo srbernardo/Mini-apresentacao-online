@@ -129,15 +129,15 @@ body{
   transition: 0.2s ease-in-out ;
 }
 
-#currirulo, #jokenpo{
+.verde{
   background-color: #02d08f;
 }
 
-#link, #calc, #cardapio {
+.azul {
   background-color: cornflowerblue;
 }
 
-#git, #imc, #faq {
+.roxo {
   background-color: #e126d9;
 }
 
